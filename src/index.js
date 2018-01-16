@@ -6,6 +6,7 @@ const server = app.listen(port);
 
 process.on('unhandledRejection', (reason, p) =>
   logger.error('Unhandled Rejection at: Promise ', p, reason)
+  // error handling
 );
 
 server.on('listening', () =>
