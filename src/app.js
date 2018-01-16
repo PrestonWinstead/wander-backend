@@ -18,6 +18,8 @@ const channels = require('./channels');
 
 const app = express(feathers());
 
+// Comment to test deployment
+
 // Load app configuration
 app.configure(configuration());
 // Enable CORS, security, compression, favicon and body parsing
