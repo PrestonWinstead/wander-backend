@@ -3,6 +3,8 @@
   "description": "wander-backend-feathers-server",
   "version": "0.0.0",
   "homepage": "",
+  "repository": "https://github.com/verystablegeniuses/wander-backend",
+  "license": "MIT",
   "main": "src",
   "keywords": [
     "feathers"
