@@ -112,4 +112,8 @@ $RECYCLE.BIN/
 # Others
 lib/
 data/
+<<<<<<< HEAD
 config.js
+=======
+package-lock.json
+>>>>>>> 8f8a2926cd86246fe9f323484d7f1d9ed07dfde3
